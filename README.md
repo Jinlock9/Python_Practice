@@ -1,14 +1,17 @@
-# study-python
+# Python Practice
+Refer to *Inflearn Original lecture*.
 
-refer to Inflearn Original lecture:
+## Author
+-   Name: Jinlock Choi
+- E-mail: jinlock99@gmail.com
 
-## INDEX
+## Contents
 ### Level 2
-- Ch2 : Class and Method
-  - 1 ~ 3 : Object-Oriented Programming (OOP)
+- Ch2: Class and Method
+  - 1 ~ 3: Object-Oriented Programming (OOP)
 - Ch3 : Magic Method
-  - 1 : Class Built-in Methods Basic
-  - 2 : Class Built-in Methods Application
+  - 1: Class Built-in Methods Basic
+  - 2: Class Built-in Methods Application
   - 3 : namedtuple (Named Tuple) **
 - Ch4 : Python Sequence
   - 1 :
@@ -18,25 +21,25 @@ refer to Inflearn Original lecture:
     - Tuple Advanced
     - Mutable vs Immutable
     - Sort vs Sorted
-  - 3 : Hash Table
-  - 4 : Dict Advanced, Set
+  - 3: Hash Table
+  - 4: Dict Advanced, Set
 - Ch5 : First-Class Function *****
   - 1 : 
     - Function Object
     - High-order Function: map, filter, reduce, lambda ** 
     - Callable
     - Partial *
-  - 2 : Variable Scope
-  - 3 : Closure ***
-  - 4 : Decorator ***
+  - 2: Variable Scope
+  - 3: Closure ***
+  - 4: Decorator ***
 - Ch6 :Concurrency
-  - 1 : iterator, generator, next
-  - 2 : Generator ***
-  - 3 : Coroutine ***
-  - 4 : futures ***
-  - 5 : futures ***
+  - 1: iterator, generator, next
+  - 2: Generator ***
+  - 3: Coroutine ***
+  - 4: futures ***
+  - 5: futures ***
 - Ch7 : AsyncIO
-  - 1 ~ 2 : asyncio
+  - 1 ~ 2: asyncio
 
 ### Level 3
 - Ch1 :
